@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Uday Pratap Singh</h1>
+<h1 align="center">👋 Hey, I'm Uday Pratap Singh Rajpoot</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Python & Machine Learning Learner</h3>
 
 <p align="center">
@@ -79,7 +79,7 @@ Regression, classification, evaluation metrics
 
 ## 🤝 Connect With Me
 📩 Email: *udayrajpoot018@gmail.com*  
-🌐 LinkedIn: add your link here after updating
+🌐 LinkedIn: *https://shorturl.at/xArZp*
 
 ---
 
